@@ -1,3 +1,7 @@
-blah
+abcdef
+<<<<<<< HEAD
 Blah
 blah
+=======
+Blah blah blah lqubwuqb branch1 change
+>>>>>>> branch1
